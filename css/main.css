@@ -1,2 +1,20 @@
+/* line 1, ../../Users/Teresa/Dropbox/Web Dev Projects/webster-test-2018-03-20/css/main.scss */
+html {
+  font-size: 16px; }
+
+/* line 5, ../../Users/Teresa/Dropbox/Web Dev Projects/webster-test-2018-03-20/css/main.scss */
+body {
+  padding: 1em;
+  font-family: "Georgia Pro", Georgia, serif;
+  line-height: 1.5; }
+
+/* line 11, ../../Users/Teresa/Dropbox/Web Dev Projects/webster-test-2018-03-20/css/main.scss */
+h1, h2 {
+  text-align: center;
+  font-family: Verdana, sans-serif; }
+  /* line 14, ../../Users/Teresa/Dropbox/Web Dev Projects/webster-test-2018-03-20/css/main.scss */
+  h1 small, h2 small {
+    display: block;
+    padding-top: .5em; }
 
 /*# sourceMappingURL=main.css.map */
